@@ -1,0 +1,15 @@
+{
+  "name": "population",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "booty": "node pop.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-cities": "^2.0.1"
+  }
+}
